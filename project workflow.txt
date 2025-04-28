@@ -1,0 +1,26 @@
+1. Import necessary libraries
+
+2. Load and explore the dataset
+
+3. Clean the data:
+   - Handle missing values
+   - Remove duplicates
+   - Fix incorrect data types
+
+4. Feature Engineering:
+   - Extract Month, Hour, City, and other useful features
+
+5. Perform EDA:
+   - Univariate and Bivariate analysis
+   - Monthly sales trend
+   - Top products analysis
+   - Geographic sales analysis
+   - Quantity vs Price analysis
+
+6. Visualize findings:
+   - Create attractive and clear visualizations (Line plots, bar charts, scatter plots, heatmaps)
+
+7. Summarize Key Insights & Recommendations
+
+
+
