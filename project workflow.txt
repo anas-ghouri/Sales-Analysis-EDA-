@@ -23,4 +23,10 @@
 7. Summarize Key Insights & Recommendations
 
 
+Tools & Libraries Used:
 
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
